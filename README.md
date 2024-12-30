@@ -1,1 +1,1 @@
-# passowrd-manager
+# password-manager
